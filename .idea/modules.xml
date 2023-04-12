@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/mscc-brewery-micro.iml" filepath="$PROJECT_DIR$/.idea/mscc-brewery-micro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mssc-beer-inventory-service/mssc-beer-inventory-service.iml" filepath="$PROJECT_DIR$/mssc-beer-inventory-service/mssc-beer-inventory-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mssc-beer-order-service/mssc-beer-order-service.iml" filepath="$PROJECT_DIR$/mssc-beer-order-service/mssc-beer-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mssc-beer-service/mssc-beer-service.iml" filepath="$PROJECT_DIR$/mssc-beer-service/mssc-beer-service.iml" />
+    </modules>
+  </component>
+</project>
